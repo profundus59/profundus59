@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Jihun Lee</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=profundus59&label=Profile%20views&color=0e75b6&style=flat" alt="profundus59" /> </p>
 
