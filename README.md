@@ -33,10 +33,3 @@ I am an AI Researcher at **POSTECH**, working at the intersection of machine lea
 ### 🤝 Academic Service
 
 - **Conference Reviewer:** CVPR (2024, 2025), BMVC (2023)
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=profundus59&show_icons=true&theme=default" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=profundus59&layout=compact" alt="top langs" />
-</p>
