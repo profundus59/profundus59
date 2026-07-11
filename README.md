@@ -2,7 +2,7 @@
 <h3 align="center">AI Researcher @ POSTECH · Multimodal LLMs · VLA & Robotics</h3>
 
 <p align="center">
-  <a href="https://profundus59.github.io/">🌐 Website</a> ·
+  <a href="https://profundus59.github.io/">🌐 Personal Website</a> ·
   <a href="mailto:profundus59@gmail.com">📧 Email</a> ·
   <a href="https://drive.google.com/file/d/1U8-KAOHisLlljSkWuwmp_8r5caR4xMno/view?usp=sharing">📄 CV</a> ·
   <a href="https://www.linkedin.com/in/jihun-lee-061b6820b">💼 LinkedIn</a>
