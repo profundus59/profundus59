@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jihun Lee</h1>
-<h3 align="center">AI Researcher @ POSTECH · Computer Vision · Multimodal LLMs · VLA & Robotics</h3>
+<h3 align="center">AI Researcher @ POSTECH · Multimodal LLMs · VLA & Robotics</h3>
 
 <p align="center">
   <a href="https://profundus59.github.io/">🌐 Website</a> ·
@@ -12,7 +12,7 @@
 
 ### 🔬 About Me
 
-I'm an AI Researcher at **POSTECH**, working at the intersection of machine learning and real-world applications. My focus spans **computer vision**, **multimodal LLMs**, **vision-language-action (VLA) models**, and **robotics** — with the goal of turning cutting-edge models into systems that deliver real-world value.
+I am an AI Researcher at **POSTECH**, working at the intersection of machine learning and real-world applications. My focus spans **multimodal LLMs**, **vision-language-action (VLA) models**, and **robotics** — with the goal of turning cutting-edge models into systems that deliver real-world value.
 
 - 🎓 Ph.D. in Artificial Intelligence, POSTECH (Feb. 2026 – Present)
 - 🔭 Research student, POSTECH Machine Learning Vision Group (Advisor: Kwang In Kim)
