@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://profundus59.github.io/">🌐 Homepage</a> ·
   <a href="mailto:profundus59@gmail.com">📧 Email</a> ·
-  <a href="https://drive.google.com/file/d/18QnXJ0WRsyYU0O2gq2VTYK4I2nuTBkyU/view?usp=drive_link">📄 CV</a> ·
+  <a href="https://drive.google.com/file/d/1V4AgWsnb9OPXIGz9W3hRebEVmB5gjdBi/view?usp=sharing">📄 CV</a> ·
   <a href="https://www.linkedin.com/in/jihun-lee-061b6820b">💼 LinkedIn</a>
 </p>
 
